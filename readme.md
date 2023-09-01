@@ -1,1 +1,3 @@
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.ytimg.com/vi/xNcwYskIePY/maxresdefault.jpg">
+</picture>
